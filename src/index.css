@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Latin:wght@300&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Anek Latin", sans-serif;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-color: #3f3f3f;
+}
